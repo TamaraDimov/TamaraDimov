@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋,I am Tamara Dimov</h1>
+<h1 align="center"> Hi there 👋, I am Tamara Dimov</h1>
 <div align="center"><img src="programming.gif" alt="gif programming" width="498" height="373"/></div>
 <h3 align="center">Remote Developer, Ready for New Opportunities</h3>
 
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Front-End projects ( Full-Stack coming soon...)
 - 👨‍💻 All of my projects are available at https://github.com/TamaraDimov
 - 💬 Ask me about HTML & CSS
-- 📫 How to reach me: **tamemojsoska@hmail.com**
+- 📫 How to reach me: **tamemojsoska@gmail.com**
 - ⚡ Fun fact: I think I am fun to work with and I can work based on any type of requirement.
 - 🌐 Socials: <br/> <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiri-htet-418047204/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.twitter.com/Grace_Htet4) 
